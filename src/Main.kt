@@ -53,4 +53,5 @@ fun main() {
     println(persona3)
     if (persona2.equals(persona3)) println("Las personas son iguales") else println("Las personas no son iguales")
 
+
 }
